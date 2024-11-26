@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "67457c66864f8260dd0d8190"
+  },
+  "title": "To Kill a Mockingbird",
+  "author_id": 1,
+  "genres": [
+    "Fiction"
+  ],
+  "year": 1960,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "67457c66864f8260dd0d8191"
+  },
+  "title": "1984",
+  "author_id": 2,
+  "genres": [
+    "Dystopian",
+    "Fiction",
+    "Political Fiction"
+  ],
+  "year": 1949,
+  "available": false
+},
+{
+  "_id": {
+    "$oid": "67457c66864f8260dd0d8192"
+  },
+  "title": "The Great Gatsby",
+  "author_id": 3,
+  "genres": [
+    "Classic"
+  ],
+  "year": 1925,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "67457c66864f8260dd0d8193"
+  },
+  "title": "The Great Gatsby",
+  "author_id": 3,
+  "genres": [
+    "Classic"
+  ],
+  "year": 1925,
+  "available": true
+}]

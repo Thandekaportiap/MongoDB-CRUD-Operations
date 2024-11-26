@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "67457cc6864f8260dd0d8197"
+  },
+  "patron_id": 1,
+  "name": "John Doe",
+  "borrowed_books": [
+    "1984"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67457cc6864f8260dd0d8198"
+  },
+  "patron_id": 2,
+  "name": "Jane Smith",
+  "borrowed_books": []
+}]

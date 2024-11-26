@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "67457c7f864f8260dd0d8194"
+  },
+  "author_id": 1,
+  "name": "Harper Lee",
+  "nationality": "American"
+},
+{
+  "_id": {
+    "$oid": "67457c7f864f8260dd0d8195"
+  },
+  "author_id": 2,
+  "name": "George Orwell",
+  "nationality": "British"
+},
+{
+  "_id": {
+    "$oid": "67457c7f864f8260dd0d8196"
+  },
+  "author_id": 3,
+  "name": "F. Scott Fitzgerald",
+  "nationality": "American"
+}]
